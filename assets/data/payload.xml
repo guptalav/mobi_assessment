@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<program version="1.99" system="HX-6500-03" sys_ver="5.20">
+	<plu_list type="renewal">
+		<name2_language code="zh"/>
+		<plu code="000000000000000002" en="1" name="PLU 00002" name2="PLU 00002">
+			<price num="1">10</price>
+			<price num="2">0</price>
+			<price num="3">0</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>5</group>
+			<category>1</category>
+		</plu>
+		<plu code="000000000000000003" en="1" name="PLU 00003" name2="PLU 00003">
+			<price num="1">10</price>
+			<price num="2">0</price>
+			<price num="3">0</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>5</group>
+			<category>1</category>
+		</plu>
+		<plu code="000000000000000004" en="1" name="PLU 00004" name2="PLU 00004">
+				<price num="1">100</price>
+				<price num="2">200</price>
+				<price num="3">0</price>
+				<price num="4">0</price>
+				<price num="5">0</price>
+				<price num="6">0</price>
+				<price num="7">0</price>
+				<max_price>0</max_price>
+				<ext_price>0</ext_price>
+				<group>5</group>
+				<category>1</category>
+		</plu>
+		<plu code="000000000000000005" en="1" name="PLU 00005" name2="PLU 00005">
+			<price num="1">300</price>
+			<price num="2">0</price>
+			<price num="3">0</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>5</group>
+			<category>1</category>
+		</plu>
+		<plu code="000000000000000006" en="1" name="PLU 00006" name2="PLU 00006">
+			<price num="1">0</price>
+			<price num="2">0</price>
+			<price num="3">0</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>5</group>
+			<category>1</category>
+		</plu>
+		<plu code="000000000000000008" en="1" name="PLU TEST" name2="PLU TEST BACK">
+			<price num="1">100</price>
+			<price num="2">0</price>
+			<price num="3">0</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>2</group>
+			<category>2</category>
+		</plu>
+		<plu code="000000000000000369" en="1" name="CHICKEN BENTO SPECIAL" name2="">
+			<price num="1">799</price>
+			<price num="2">0</price>
+			<price num="3">0</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>1</group>
+			<category>3</category>
+		</plu>
+		<plu code="000000000000001034" en="1" name="MIAM - CHICKEN EGG ROLL" name2="">
+			<price num="1">219</price>
+			<price num="2">219</price>
+			<price num="3">0</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>5</group>
+			<category>3</category>
+		</plu>
+		<plu code="000000000000001035" en="1" name="MIAM - BOTTLED WATER" name2="">
+			<price num="1">0</price>
+			<price num="2">0</price>
+			<price num="3">0</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>0</group>
+			<category>7</category>
+		</plu>
+		<plu code="000000000000001036" en="1" name="MIAM - SMALL DRINK" name2="">
+			<price num="1">0</price>
+			<price num="2">0</price>
+			<price num="3">0</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>0</group>
+			<category>7</category>
+		</plu>
+		<plu code="000000000000001037" en="1" name="MIAM - UPSIZE TO REG" name2="">
+			<price num="1">20</price>
+			<price num="2">20</price>
+			<price num="3">0</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>0</group>
+			<category>7</category>
+		</plu>
+		<plu code="000000000000001038" en="1" name="MIAM - UPSIZE TO LG" name2="">
+			<price num="1">40</price>
+			<price num="2">40</price>
+			<price num="3">0</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>0</group>
+			<category>7</category>
+		</plu>
+		<plu code="000000000000001067" en="1" name="MIAM - DRINK" name2="">
+			<price num="1">400</price>
+			<price num="2">200</price>
+			<price num="3">199</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>3</group>
+			<category>2</category>
+		</plu>
+		<plu code="000000000000100101" en="1" name="#1 CHICKEN TERI OLO" name2="COMBO 1 CHICKEN TERIYAKI">
+			<price num="1">789</price>
+			<price num="2">789</price>
+			<price num="3">915</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>22</group>
+			<category>3</category>
+		</plu>
+		<plu code="000000000000100102" en="1" name="#2 BEEF TERI OLO" name2="COMBO 2 BEEF TERIYAKI">
+			<price num="1">829</price>
+			<price num="2">829</price>
+			<price num="3">955</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>22</group>
+			<category>3</category>
+		</plu>
+		<plu code="000000000000100103" en="1" name="#3 SHRIMP TERI OLO" name2="COMBO 3 SHRIMP TERIYAKI">
+			<price num="1">869</price>
+			<price num="2">869</price>
+			<price num="3">995</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>22</group>
+			<category>3</category>
+		</plu>
+		<plu code="000000000000100104" en="1" name="#4 CHICK/SHRI TERI OLO" name2="COMBO 4 CHICKEN/SHRIMP TERIYAKI">
+			<price num="1">899</price>
+			<price num="2">899</price>
+			<price num="3">1025</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>22</group>
+			<category>3</category>
+		</plu>
+		<plu code="000000000000100105" en="1" name="#5 BEEF/SHRI TERI OLO" name2="COMBO 5 BEEF/SHRIMP TERIYAKI">
+			<price num="1">949</price>
+			<price num="2">949</price>
+			<price num="3">1075</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>22</group>
+			<category>3</category>
+		</plu>
+		<plu code="000000000000100171" en="1" name="EXTRA CHICKEN" name2="EXTRA CHICK">
+			<price num="1">199</price>
+			<price num="2">199</price>
+			<price num="3">199</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>5</group>
+			<category>1</category>
+		</plu>
+		<plu code="000000000000100173" en="1" name="NOODLES" name2="W/ SOBA  NOODLE">
+			<price num="1">75</price>
+			<price num="2">75</price>
+			<price num="3">60</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>5</group>
+			<category>1</category>
+		</plu>
+		<plu code="000000000000100174" en="1" name="FRIED RICE" name2="W/ FRIED RICE">
+			<price num="1">50</price>
+			<price num="2">50</price>
+			<price num="3">50</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>5</group>
+			<category>1</category>
+		</plu>
+		<plu code="000000000000100184" en="1" name="EXTRA SHRIMP" name2="EXTRA SHRIMP">
+			<price num="1">249</price>
+			<price num="2">249</price>
+			<price num="3">259</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>5</group>
+			<category>1</category>
+		</plu>
+		<plu code="000000000000100271" en="1" name="BENTO CHICKEN OLO" name2="CHICKEN BENTO">
+			<price num="1">799</price>
+			<price num="2">799</price>
+			<price num="3">0</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>23</group>
+			<category>3</category>
+		</plu>
+		<plu code="000000000000100272" en="1" name="BENTO BEEF OLO" name2="BEEF BENTO">
+			<price num="1">869</price>
+			<price num="2">869</price>
+			<price num="3">0</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>23</group>
+			<category>3</category>
+		</plu>
+		<plu code="000000000000100273" en="1" name="BENTO SHRIMP OLO" name2="SHRIMP BENTO">
+			<price num="1">949</price>
+			<price num="2">949</price>
+			<price num="3">0</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>23</group>
+			<category>2</category>
+		</plu>
+		<plu code="000000000000100630" en="1" name="BROWN RICE" name2="W/ BROWN RICE">
+			<price num="1">79</price>
+			<price num="2">79</price>
+			<price num="3">0</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>5</group>
+			<category>1</category>
+		</plu>
+		<plu code="000000000000100632" en="1" name="EXTRA BEEF" name2="EXTRA BEEF">
+			<price num="1">319</price>
+			<price num="2">319</price>
+			<price num="3">329</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>5</group>
+			<category>1</category>
+		</plu>
+		<plu code="000000000000100741" en="1" name="WHITE RICE" name2="WHITE RICE">
+			<price num="1">0</price>
+			<price num="2">0</price>
+			<price num="3">0</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>5</group>
+			<category>1</category>
+		</plu>
+		<plu code="000000000000101177" en="1" name="SNAPPLE DIET LEMON OLO" name2="">
+			<price num="1">229</price>
+			<price num="2">229</price>
+			<price num="3">0</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>0</group>
+			<category>2</category>
+		</plu>
+		<plu code="000000000000101544" en="1" name="RED BULL ROLL OLO" name2="RED BULL ROLL">
+			<price num="1">200</price>
+			<price num="2">100</price>
+			<price num="3">2</price>
+			<price num="4">0</price>
+			<price num="5">0</price>
+			<price num="6">0</price>
+			<price num="7">0</price>
+			<max_price>0</max_price>
+			<ext_price>0</ext_price>
+			<group>1</group>
+			<category>2</category>
+		</plu>
+	</plu_list>
+	<modifier_group_list>
+		<modifier_group num="2" name="MODIFIER GROUP 002">
+			<cond_plu_code>000000000000000002</cond_plu_code>
+			<cond_plu_code>000000000000000003</cond_plu_code>
+			<cond_plu_code>000000000000000004</cond_plu_code>
+			<cond_plu_code>000000000000000005</cond_plu_code>
+			<cond_plu_code>000000000000000006</cond_plu_code>
+			<cplu_qty_set_one en="0"/>
+		</modifier_group>
+		<modifier_group num="3" name="MIAM DRINK">
+			<cond_plu_code>000000000000001035</cond_plu_code>
+			<cond_plu_code>000000000000001036</cond_plu_code>
+			<cond_plu_code>000000000000001037</cond_plu_code>
+			<cond_plu_code>000000000000001038</cond_plu_code>
+			<cplu_qty_set_one en="0"/>
+		</modifier_group>
+		<modifier_group num="22" name="Choose Rice/Noodles">
+			<cond_plu_code>000000000000100741</cond_plu_code>
+			<cond_plu_code>000000000000100174</cond_plu_code>
+			<cond_plu_code>000000000000100173</cond_plu_code>
+			<cond_plu_code>000000000000100630</cond_plu_code>
+			<cplu_qty_set_one en="1"/>
+		</modifier_group>
+		<modifier_group num="23" name="Add Extra Protein">
+			<cond_plu_code>000000000000100171</cond_plu_code>
+			<cond_plu_code>000000000000100632</cond_plu_code>
+			<cond_plu_code>000000000000100184</cond_plu_code>
+			<cplu_qty_set_one en="0"/>
+		</modifier_group>
+	</modifier_group_list>
+	<category_group_list>
+		<category_group num="2" name="DRINK">
+			<cond_plu_code>000000000000000008</cond_plu_code>
+			<cond_plu_code>000000000000001067</cond_plu_code>
+			<cond_plu_code>000000000000101177</cond_plu_code>
+			<cond_plu_code>000000000000101544</cond_plu_code>
+			<cplu_qty_set_one en="0"/>
+		</category_group>
+		<category_group num="3" name="FOOD">
+			<cond_plu_code>000000000000000369</cond_plu_code>
+			<cond_plu_code>000000000000001034</cond_plu_code>
+			<cond_plu_code>000000000000100101</cond_plu_code>
+			<cond_plu_code>000000000000100102</cond_plu_code>
+			<cond_plu_code>000000000000100103</cond_plu_code>
+			<cond_plu_code>000000000000100104</cond_plu_code>
+			<cond_plu_code>000000000000100105</cond_plu_code>
+			<cond_plu_code>000000000000100271</cond_plu_code>
+			<cond_plu_code>000000000000100272</cond_plu_code>
+			<cond_plu_code>000000000000100273</cond_plu_code>
+			<cplu_qty_set_one en="0"/>
+		</category_group>
+	</category_group_list>
+</program>

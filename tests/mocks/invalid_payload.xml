@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<program version="1.99" system="HX-6500-03" sys_ver="5.20">
+	<plu_list type="renewal">
+		<name2_language code="zh"/>
+	</plu_list>
+	<modifier_group_list>
+		<modifier_group num="2" name="MODIFIER GROUP 002">
+			<cond_plu_code>000000000000000002</cond_plu_code>
+			<cond_plu_code>000000000000000003</cond_plu_code>
+			<cond_plu_code>000000000000000004</cond_plu_code>
+			<cond_plu_code>000000000000000005</cond_plu_code>
+			<cond_plu_code>000000000000000006</cond_plu_code>
+			<cplu_qty_set_one en="0"/>
+		</modifier_group>
+		<modifier_group num="3" name="MIAM DRINK">
+			<cond_plu_code>000000000000001035</cond_plu_code>
+			<cond_plu_code>000000000000001036</cond_plu_code>
+			<cond_plu_code>000000000000001037</cond_plu_code>
+			<cond_plu_code>000000000000001038</cond_plu_code>
+			<cplu_qty_set_one en="0"/>
+		</modifier_group>
+		<modifier_group num="22" name="Choose Rice/Noodles">
+			<cond_plu_code>000000000000100741</cond_plu_code>
+			<cond_plu_code>000000000000100174</cond_plu_code>
+			<cond_plu_code>000000000000100173</cond_plu_code>
+			<cond_plu_code>000000000000100630</cond_plu_code>
+			<cplu_qty_set_one en="1"/>
+		</modifier_group>
+		<modifier_group num="23" name="Add Extra Protein">
+			<cond_plu_code>000000000000100171</cond_plu_code>
+			<cond_plu_code>000000000000100632</cond_plu_code>
+			<cond_plu_code>000000000000100184</cond_plu_code>
+			<cplu_qty_set_one en="0"/>
+		</modifier_group>
+	</modifier_group_list>
+	<category_group_list>
+		<category_group num="2" name="DRINK">
+			<cond_plu_code>000000000000000008</cond_plu_code>
+			<cond_plu_code>000000000000001067</cond_plu_code>
+			<cond_plu_code>000000000000101177</cond_plu_code>
+			<cond_plu_code>000000000000101544</cond_plu_code>
+			<cplu_qty_set_one en="0"/>
+		</category_group>
+		<category_group num="3" name="FOOD">
+			<cond_plu_code>000000000000000369</cond_plu_code>
+			<cond_plu_code>000000000000001034</cond_plu_code>
+			<cond_plu_code>000000000000100101</cond_plu_code>
+			<cond_plu_code>000000000000100102</cond_plu_code>
+			<cond_plu_code>000000000000100103</cond_plu_code>
+			<cond_plu_code>000000000000100104</cond_plu_code>
+			<cond_plu_code>000000000000100105</cond_plu_code>
+			<cond_plu_code>000000000000100271</cond_plu_code>
+			<cond_plu_code>000000000000100272</cond_plu_code>
+			<cond_plu_code>000000000000100273</cond_plu_code>
+			<cplu_qty_set_one en="0"/>
+		</category_group>
+	</category_group_list>
+</program>
